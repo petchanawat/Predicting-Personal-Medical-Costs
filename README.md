@@ -1,8 +1,8 @@
-# [Predicting Credit Card Approvals (Classification - Supervised Learning)](https://www.datacamp.com/datalab/w/4cdd5468-4215-407f-b0de-c5b6dbab903e/edit) 👈
+# [Predicting-Persinal-Medical-Costs (Regression - Supervised Learning)](https://colab.research.google.com/drive/17gY7U5w77YlPW_L5fMpOwZLCVx7KEH_l?usp=sharing) 👈
 ### Overview
-![Approval_image](https://github.com/user-attachments/assets/ea03e11e-cd58-4582-9168-5a2ef257189f)
+![image](https://github.com/user-attachments/assets/9348755b-2f3a-4442-b21a-1248a06a1c59)
 
-Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this workbook, you will build an automatic credit card approval predictor using machine learning techniques, just like real banks do.</p>
+Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this workbook, you will build an automatic credit card approval predictor using machine learning techniques, just like real banks do.
 In this project, I explore a machine learning classification problem focused on predicting credit card approval status based on applicant information. The dataset includes 690 samples with features such as demographic information, financial status, and employment history.</p>
 
 ### Dataset Description
